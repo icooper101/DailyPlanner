@@ -74,3 +74,4 @@ $(document).ready(function() {
 //             - trim text, trim schedule hour
 //             - send to local storage
 //     call readFromLocalStorage(); 
+
